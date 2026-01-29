@@ -1,6 +1,19 @@
+![Header image](./header.png)
+
 # Dedicated ISP Proxies
 
-![Header image](./header.png)
+- [What are Dedicated ISP Proxies?](#what-are-dedicated-isp-proxies)
+    + [Core Features](#core-features)
+- [How Dedicated ISP Proxies Work](#how-dedicated-isp-proxies-work)
+    + [Basic Setup Flow (Self-Service)](#basic-setup-flow-self-service)
+    + [Proxy List and Port Mapping](#proxy-list-and-port-mapping)
+    + [Available Protocols](#available-protocols)
+    + [Authentication](#authentication)
+- [Dedicated ISP Proxies vs Other Proxy Types](#dedicated-isp-proxies-vs-other-proxy-types)
+- [When to Use Dedicated ISP Proxies](#when-to-use-dedicated-isp-proxies)
+- [Fair Usage Policy](#fair-usage-policy)
+- [Learn More](#learn-more)
+- [Contact Us](#contact-us)
 
 This repository provides a technical overview of how Oxylabs [Dedicated ISP Proxies](https://oxylabs.io/products/dedicated-isp-proxies) work, how they differ from other proxy types, and when they are best suited for scraping and automation workloads.
 
