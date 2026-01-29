@@ -1,4 +1,4 @@
-![Header image](./header.png)
+[![dedicated-isp-proxies](https://raw.githubusercontent.com/oxylabs/dedicated-isp-proxies/refs/heads/main/DISP-Github-1090x275.png?token=GHSAT0AAAAAADGKHWR7RW3CJ2JKXIICNFC62L3ILXQ)](https://oxylabs.io/products/dedicated-isp-proxies?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=dedicated-isp-proxies-github&transaction_id=102f49063ab94276ae8f116d224b67)
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
