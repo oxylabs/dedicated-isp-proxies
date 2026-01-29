@@ -1,5 +1,7 @@
 ![Header image](./header.png)
 
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
+
 # Dedicated ISP Proxies
 
 - [What are Dedicated ISP Proxies?](#what-are-dedicated-isp-proxies)
