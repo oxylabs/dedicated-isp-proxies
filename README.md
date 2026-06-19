@@ -72,7 +72,7 @@ If the request is successful, the response will display the IP address linked to
 | ISP (ASN)    | The provider and ASN identifier                  |
 | Assigned IP  | A specific proxy IP assigned to the chosen port  |
 
-**Enterprise users** receive proxy access details through account managers and internal provisioning systems. Proxy lists can also be managed via RESTful API. For more details, refer to [Enterprise proxy list documentation](https://developers.oxylabs.io/proxies/dedicated-isp-proxies/enterprise/proxy-lists).
+**Enterprise users** receive proxy access details through account managers and internal provisioning systems. Proxy lists can also be managed via RESTful API. For more details, refer to [Enterprise proxy list documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/enterprise/proxy-lists).
 
 ### Available protocols
 
@@ -130,9 +130,9 @@ To ensure stability and prevent any potential traffic abuse, the concurrent sess
 
 For detailed configuration, advanced usage, and multi-language code examples, check out official Dedicated ISP Proxies documentation pages:
 
-- [Self-Service documentation](https://developers.oxylabs.io/proxies/dedicated-isp-proxies/self-service)
-- [Enterprise documentation](https://developers.oxylabs.io/proxies/dedicated-isp-proxies/enterprise)
-- [Third-party integration guides](https://developers.oxylabs.io/proxies/integration-guides/dedicated-isp-proxies-integrations)
+- [Self-Service documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/self-service)
+- [Enterprise documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/enterprise)
+- [Third-party integration guides](https://developers.oxylabs.io/integrations/proxy-integrations/dedicated-isp-proxies-guides)
 
 ## Contact us
 
