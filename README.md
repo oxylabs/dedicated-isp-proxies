@@ -2,7 +2,7 @@
 [![dedicated-isp-proxies](https://github.com/oxylabs/dedicated-isp-proxies/blob/main/DISP-Github-1090x275.png)](https://oxylabs.io/products/dedicated-isp-proxies?utm_source=github&utm_medium=referral&utm_content=dedicated-isp-proxies&utm_campaign=banner&groupid=877)
 
 <a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=dedicated-isp-proxies&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
-<a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
+<a href="https://developers.oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=dedicated-isp-proxies&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
 <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
@@ -76,7 +76,7 @@ If the request is successful, the response will display the IP address linked to
 | ISP (ASN)    | The provider and ASN identifier                  |
 | Assigned IP  | A specific proxy IP assigned to the chosen port  |
 
-**Enterprise users** receive proxy access details through account managers and internal provisioning systems. Proxy lists can also be managed via RESTful API. For more details, refer to [Enterprise proxy list documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/enterprise/proxy-lists).
+**Enterprise users** receive proxy access details through account managers and internal provisioning systems. Proxy lists can also be managed via RESTful API. For more details, refer to [Enterprise proxy list documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/enterprise/proxy-lists?utm_source=github&utm_medium=referral&utm_content=dedicated-isp-proxies&groupid=877).
 
 ### Available protocols
 
@@ -134,9 +134,9 @@ To ensure stability and prevent any potential traffic abuse, the concurrent sess
 
 For detailed configuration, advanced usage, and multi-language code examples, check out official Dedicated ISP Proxies documentation pages:
 
-- [Self-Service documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/self-service)
-- [Enterprise documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/enterprise)
-- [Third-party integration guides](https://developers.oxylabs.io/integrations/proxy-integrations/dedicated-isp-proxies-guides)
+- [Self-Service documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/self-service?utm_source=github&utm_medium=referral&utm_content=dedicated-isp-proxies&groupid=877)
+- [Enterprise documentation](https://developers.oxylabs.io/products/proxies/dedicated-isp-proxies/enterprise?utm_source=github&utm_medium=referral&utm_content=dedicated-isp-proxies&groupid=877)
+- [Third-party integration guides](https://developers.oxylabs.io/integrations/proxy-integrations/dedicated-isp-proxies-guides?utm_source=github&utm_medium=referral&utm_content=dedicated-isp-proxies&groupid=877)
 
 ## Contact us
 
